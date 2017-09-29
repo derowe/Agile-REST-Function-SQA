@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="6b6185a2-b5bd-4679-bc0d-aa997470178d" name="AgileGTIN_Test_Suite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="6b6185a2-b5bd-4679-bc0d-aa997470178dfileName">TestSuite-1</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
